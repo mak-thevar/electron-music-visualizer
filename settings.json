@@ -1,0 +1,18 @@
+{
+    "barCount": 160,
+    "capHeight" : 2,
+    "meterStep": 0.2,
+    "analyzerSettings": {
+        "fftSize":2048,
+        "minDecibels" : -75,
+        "maxDecibels" : 40
+    },
+    "opacity": 0.9,
+    "bottom": "#283593",
+    "middle": "#8c9eff",
+    "top": "#0BF0CF",
+    "bar": "#8c9eff",
+    "barHeight" : 40,
+    "capsEnabled" : true,
+    "randomColorOnStartup" : true
+}

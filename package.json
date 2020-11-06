@@ -1,0 +1,26 @@
+{
+  "name": "desktop-music-visualizer",
+  "version": "1.0.0",
+  "description": "A minimal music visualizer for desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron --enable-transparent-visuals --disable-gpu ."
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mak-thevar/electron-music-visualizer.git"
+  },
+  "homepage": "https://github.com/mak-thevar/electron-music-visualizer",
+  "keywords": [
+    "Music",
+    "Spectrum",
+    "Visualizer",
+    "electron",
+    "javascript"
+  ],
+  "author": "Muthukumar Thevar <mak.thevar@outlook.com> (https://hackwithmak.blogspot.com)",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
